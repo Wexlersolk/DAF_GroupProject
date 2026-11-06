@@ -1,0 +1,2 @@
+Breakpoint,N_Pre,N_Post,SSR_Pooled,SSR_Pre,SSR_Post,Chow_F_Stat,p_value,Decision
+"July 2012 (Draghi ""Whatever It Takes"")",161,171,277463.6368959905,143934.85888317434,109825.95771586831,4.981661206720711,6.777041473171597e-05,Reject Null: Structural Break Confirmed (p < 0.001)

@@ -1,0 +1,3 @@
+| Breakpoint                             |   N_Pre |   N_Post |   SSR_Pooled |   SSR_Pre |   SSR_Post |   Chow_F_Stat |     p_value | Decision                                            |
+|:---------------------------------------|--------:|---------:|-------------:|----------:|-----------:|--------------:|------------:|:----------------------------------------------------|
+| July 2012 (Draghi "Whatever It Takes") |     161 |      171 |       277464 |    143935 |     109826 |       4.98166 | 6.77704e-05 | Reject Null: Structural Break Confirmed (p < 0.001) |

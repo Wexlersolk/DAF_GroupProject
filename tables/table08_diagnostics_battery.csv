@@ -1,0 +1,7 @@
+Test,Statistic,p-value,Threshold / Null,Conclusion
+Multicollinearity (Max VIF),1.106016327555248,,< 5 (No issue),No multicollinearity in diffs
+Breusch-Pagan (Heteroskedasticity),24.898660042230794,0.00014575349799152352,H0: Homoskedasticity,Reject H0 (Heteroskedastic)
+White Test (Heteroskedasticity),47.241961473825896,0.0005428899563511003,H0: Homoskedasticity,Reject H0 (Heteroskedastic)
+Durbin-Watson (Autocorrelation),1.6399410758552961,,~ 2.0 (No autocorr),Mild positive autocorrelation
+Breusch-Godfrey LM (Autocorrelation lag 4),47.663880277181924,1.1089974751749057e-09,H0: No serial correlation,Reject H0 (Autocorrelated)
+Jarque-Bera (Normality of residuals),898.0435769876216,9.824602835024358e-196,H0: Normal residuals,Fat-tailed / Leptokurtic
